@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  classification_id: 
+  name: MyString
+  range: MyString
+  url: MyString
+  image_url: MyString
+  extinction_date: 1
+
+two:
+  classification_id: 
+  name: MyString
+  range: MyString
+  url: MyString
+  image_url: MyString
+  extinction_date: 1
