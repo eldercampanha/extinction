@@ -1,5 +1,5 @@
 class Classification < ActiveRecord::Base
 
-has_many :animal
+has_many :animals
 
 end
